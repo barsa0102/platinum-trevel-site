@@ -14,6 +14,7 @@
     "css-loader": "^6.10.0",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
+    "postcss-hexrgba": "^2.1.0",
     "postcss-import": "^16.1.0",
     "postcss-mixins": "^10.0.0",
     "style-loader": "^3.3.4",

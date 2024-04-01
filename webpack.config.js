@@ -4,7 +4,8 @@ require("postcss-import"),
 require("postcss-mixins"),
 require("postcss-simple-vars"),
 require("postcss-nested"), 
-require("autoprefixer") 
+require("autoprefixer"), 
+require("postcss-hexrgba"),
 ];
 module.exports = {
     entry: "./app/assets/script/App.js",
