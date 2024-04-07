@@ -1,4 +1,5 @@
 import "../styles/styles.css";
+import "lazysizes";
 import MobileMenu from "./moduls/MobileMenu";
 import Revealonscroll from "./moduls/Revealonscroll";
 import StickyHeaderfuck from "./moduls/StickyHeaderfuck";
